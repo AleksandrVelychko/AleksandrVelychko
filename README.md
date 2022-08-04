@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AleksandrVelychko
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...(only on learning process now)
+- 👀 I’m QA engineer
+- 🌱 I’m currently learning JavaScript / Cypress
 - 📫 How to reach me - oleksandr.velychko96@gmail.com
 
 <!---
