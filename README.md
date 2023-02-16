@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleksandrVelychko
 - 👀 I’m QA engineer
-- 🌱 I’m currently learning JavaScript / Cypress
+- 🌱 I’m currently working with JavaScript / Cypress
 - 📫 How to reach me - oleksandr.velychko96@gmail.com
 
 <!---
